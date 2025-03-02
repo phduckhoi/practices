@@ -12,8 +12,8 @@
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
-            <version>7.8.0</version>
-            <scope>test</scope>
+            <version>7.11.0</version>
+            <type>jar</type>
         </dependency>
         
         <!-- Các dependency khác của bạn có thể nằm ở đây -->
